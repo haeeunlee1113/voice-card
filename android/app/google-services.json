@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "890186971077",
+    "firebase_url": "https://voice-quiz-flashcard.firebaseio.com",
+    "project_id": "voice-quiz-flashcard",
+    "storage_bucket": "voice-quiz-flashcard.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:890186971077:android:2b8abd0b8b119a4a53bdac",
+        "android_client_info": {
+          "package_name": "com.flashcard.voicequiz"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "890186971077-mm7pudks7nnkn5p14n9t2q0592ksepbn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDB1HPEpla3h0ZUOV8x1gFlt3cNN6yg934"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "890186971077-mm7pudks7nnkn5p14n9t2q0592ksepbn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

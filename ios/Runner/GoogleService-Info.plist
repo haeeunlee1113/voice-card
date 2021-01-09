@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>890186971077-k5oaptd92t15etb87s0b0nb3m6870006.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.890186971077-k5oaptd92t15etb87s0b0nb3m6870006</string>
+	<key>API_KEY</key>
+	<string>AIzaSyCmiOd7r35Iul8JlI5Wr0hJ5KvKM_nhiS4</string>
+	<key>GCM_SENDER_ID</key>
+	<string>890186971077</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.flashcard.voicequiz</string>
+	<key>PROJECT_ID</key>
+	<string>voice-quiz-flashcard</string>
+	<key>STORAGE_BUCKET</key>
+	<string>voice-quiz-flashcard.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:890186971077:ios:a14dfe04f769561553bdac</string>
+	<key>DATABASE_URL</key>
+	<string>https://voice-quiz-flashcard.firebaseio.com</string>
+</dict>
+</plist>
